@@ -47,5 +47,5 @@ The IIS default page should appear.
 **Screenshot**
 
 ```
-screenshots/01-Windows-Features.png
+![Windows-Features](screenshots/01-Windows-Features.png)
 ```
