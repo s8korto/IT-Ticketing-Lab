@@ -44,8 +44,5 @@ http://localhost
 
 The IIS default page should appear.
 
-**Screenshot**
-
-```
 ![Windows-Features](screenshots/01-Windows-Features.png)
-```
+
