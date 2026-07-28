@@ -180,3 +180,16 @@ Verify:
 
 ![Admin-Login](screenshots/06-Admin-Login.png)
 
+---
+
+# Result
+
+The osTicket platform was successfully deployed using IIS, PHP, and MySQL.
+
+The system is now ready for:
+
+- Creating agents
+- Configuring departments
+- Setting SLA plans
+- Creating support tickets
+- Managing help desk operations
