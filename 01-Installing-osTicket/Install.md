@@ -109,3 +109,24 @@ Log in using MySQL Workbench.
 
 ![MySQL-Installed](screenshots/03-MySQL-Installed.png)
 
+---
+
+# Step 4 - Create Database
+
+### Purpose
+
+Create the database required by osTicket.
+
+### SQL Commands
+
+```sql
+CREATE DATABASE osticket;
+```
+
+### Verification
+
+Confirm the database exists.
+
+![Database-Configuration](screenshots/04-Database-Configuration.png)
+
+
