@@ -14,7 +14,7 @@ Deploy an internal help desk system for an X Company.
 | Web Server | IIS |
 | PHP Version | 8.3.x |
 | Database | MySQL server 8.4.X and MySQL Workbench |
-| Application | osTicket |
+| Application | osTicket 1.18.4 |
 
 ---
 
@@ -129,4 +129,5 @@ Confirm the database exists.
 
 ![Database-Configuration](screenshots/04-Database-Configuration.png)
 
+---
 
