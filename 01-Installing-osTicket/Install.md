@@ -89,3 +89,23 @@ The PHP information page should load.
 
 ![PHP-Installed](screenshots/02-PHP-Installed.png)
 
+---
+
+# Step 3 - Install MySQL
+
+### Purpose
+
+MySQL stores tickets, users, departments, and system settings.
+
+### Procedure
+
+1. Install MySQL Server.
+2. Create a root password.
+3. Verify the service is running.
+
+### Verification
+
+Log in using MySQL Workbench.
+
+![MySQL-Installed](screenshots/03-MySQL-Installed.png)
+
