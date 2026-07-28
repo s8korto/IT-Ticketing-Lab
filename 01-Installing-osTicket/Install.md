@@ -131,3 +131,34 @@ Confirm the database exists.
 
 ---
 
+# Step 5 - Install osTicket
+
+### Procedure
+
+1. Extract osTicket files into:
+
+```
+C:\inetpub\wwwroot\osTicket
+```
+
+2. Open:
+
+```
+http://localhost/osTicket
+```
+
+3. Follow the installation wizard.
+
+Provide:
+
+- Help Desk Name
+- Administrator Account
+- MySQL Server
+- Database Name
+- Username
+- Password
+
+Click **Install**.
+
+![osTicket-Setup](screenshots/05-osTicket-Setup.png)
+
