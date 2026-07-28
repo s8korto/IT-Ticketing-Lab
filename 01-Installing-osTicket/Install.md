@@ -46,3 +46,46 @@ The IIS default page should appear.
 
 ![Windows-Features](screenshots/01-Windows-Features.png)
 
+---
+
+# Step 2 - Install PHP
+
+### Purpose
+
+osTicket is written in PHP and requires the PHP runtime.
+
+### Procedure
+
+1. Download PHP.
+2. Extract files to:
+
+```
+C:\PHP
+```
+
+3. Configure IIS to use PHP.
+
+### Verification
+
+Create:
+
+```
+info.php
+```
+
+Contents:
+
+```php
+<?php phpinfo(); ?>
+```
+
+Navigate to:
+
+```
+http://localhost/info.php
+```
+
+The PHP information page should load.
+
+![PHP-Installed](screenshots/02-PHP-Installed.png)
+
