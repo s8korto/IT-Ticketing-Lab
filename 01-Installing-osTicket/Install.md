@@ -12,8 +12,8 @@ Deploy an internal help desk system for an X Company.
 |-----------|------|
 | Virtual Machine | Windows Server 2022 |
 | Web Server | IIS |
-| PHP Version | 8.x |
-| Database | MySQL |
+| PHP Version | 8.3.x |
+| Database | MySQL server 8.4.X and MySQL Workbench |
 | Application | osTicket |
 
 ---
