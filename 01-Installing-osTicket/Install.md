@@ -162,3 +162,21 @@ Click **Install**.
 
 ![osTicket-Setup](screenshots/05-osTicket-Setup.png)
 
+---
+
+# Step 6 - Verify Installation
+
+Log in to the Admin Panel.
+
+```
+http://localhost/osTicket/scp
+```
+
+Verify:
+
+- Dashboard loads
+- Administrator account works
+- No installation errors appear
+
+![Admin-Login](screenshots/06-Admin-Login.png)
+
