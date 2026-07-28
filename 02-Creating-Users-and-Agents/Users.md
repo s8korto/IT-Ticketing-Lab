@@ -14,4 +14,12 @@ The company recently implemented **osTicket** to replace support requests sent d
 
 ---
 
+## Business Requirement
+
+- Creating departments
+- Creating support teams
+- Configuring user roles and permissions
+- Creating support agents
+- Creating end users
+- Preparing the system for ticket routing
 
