@@ -182,14 +182,12 @@ Verify:
 
 ---
 
-# Result
+# Key Takeaway 
 
 The osTicket platform was successfully deployed using IIS, PHP, and MySQL.
 
-The system is now ready for:
-
-- Creating agents
-- Configuring departments
-- Setting SLA plans
-- Creating support tickets
-- Managing help desk operations
+- Installing and configuring **PHP manually** instead of using an automated installer.
+- Configuring **FastCGI** in IIS so PHP files can be processed by the web server.
+- Understanding the role of **CGI/FastCGI** and how IIS communicates with `php-cgi.exe`.
+- Learning why PHP provides `php.ini-development` and `php.ini-production` templates instead of a default `php.ini`.
+- Creating and configuring a `php.ini` file to enable required PHP extensions.ns
