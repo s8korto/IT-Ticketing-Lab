@@ -14,7 +14,7 @@ The company recently implemented **osTicket** to replace support requests sent d
 
 ---
 
-## Business Requirement
+## Objective 
 
 - Creating departments
 - Creating support teams
@@ -23,3 +23,23 @@ The company recently implemented **osTicket** to replace support requests sent d
 - Creating end users
 - Preparing the system for ticket routing
 
+---
+
+## Business Requirements
+
+The IT department consists of three technicians.
+
+| Employee | Position | Responsibilities |
+|-----------|----------|------------------|
+| John Smith | IT Manager | Full system administration |
+| Sarah Lee | Help Desk Technician | Password resets, Outlook, printers |
+| Michael Chen | Systems Administrator | Servers, VPN, networking |
+
+The following employees will use the portal to submit IT support requests.
+
+| Employee | Department |
+|-----------|------------|
+| Emily Davis | Human Resources |
+| James Wilson | Finance |
+| Daniel Brown | Sales |
+| Olivia Taylor | Warehouse |
