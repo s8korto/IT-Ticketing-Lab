@@ -34,3 +34,29 @@ Departments organise tickets based on the type of support required and ensure re
 Confirm all departments appear in the department list.
 
 ![Departments](screenshots/01-Departments.png)
+
+---
+
+# Step 2 - Create Roles
+
+### Purpose
+
+Roles define the permissions available to support staff based on their responsibilities.
+
+### Procedure
+
+1. Navigate to **Agents → Roles**.
+2. Select **Add New Role**.
+3. Create the following roles:
+   - Auditor
+   - Help Desk
+   - IT Manager
+   - System Administrator
+4. Configure the appropriate permissions for each role.
+5. Save the changes.
+
+### Verification
+
+Verify each role appears in the Roles list with the correct permission settings.
+
+![Roles](screenshots/02-Roles.png)
