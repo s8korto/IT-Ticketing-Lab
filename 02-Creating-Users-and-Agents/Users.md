@@ -55,7 +55,7 @@ Roles define the permissions available to support staff based on their responsib
 
 Verify each role appears in the Roles list with the correct permission settings.
 
-
+![Roles](screenshots/02-Roles.png)
 
 ---
 
