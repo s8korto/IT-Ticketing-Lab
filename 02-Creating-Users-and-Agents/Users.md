@@ -25,6 +25,19 @@ Departments organise tickets based on the type of support required and ensure re
 3. Select **Add New Department**.
 4. Save the configuration.
 
+### Department Configuration
+
+The following departments were created to categorise incoming support requests and route tickets to the appropriate business function.
+
+| Department | Purpose |
+|------------|---------|
+| Help Desk | First point of contact for general IT support requests and incident logging. |
+| Support | Handles escalated technical issues requiring specialised troubleshooting. |
+| Finance | Processes payroll, accounting and finance-related requests. |
+| Human Resources | Manages employee onboarding, offboarding and HR enquiries. |
+| Facilities | Handles building maintenance, office equipment and workplace requests. |
+| Sales | Supports CRM, sales software and sales-related requests. |
+
 ### Verification
 
 Confirm all departments appear in the department list.
