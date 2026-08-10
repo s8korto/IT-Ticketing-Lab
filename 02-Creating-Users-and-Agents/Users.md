@@ -58,6 +58,17 @@ Roles define the permissions available to support staff based on their responsib
 2. Select **Add New Role**.
 3. Configure the appropriate permissions for each role.
 
+### Role Configuration
+
+The following roles were configured to implement role-based access control for support staff.
+
+| Role | Responsibilities |
+|------|------------------|
+| IT Manager | Full administrative access to manage agents, departments, system configuration and tickets. |
+| Level 1 Agent | Resolves common user issues such as password resets, software installation and printer troubleshooting. |
+| Level 2 Agent | Handles advanced technical issues including Active Directory, networking and Microsoft 365 administration. |
+| Read Only | Can view tickets without modifying or responding to them. Suitable for auditing and management review. |
+
 ### Verification
 
 Verify each role appears in the Roles list with the correct permission settings.
