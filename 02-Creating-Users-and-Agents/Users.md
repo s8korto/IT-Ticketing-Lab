@@ -8,7 +8,7 @@ Configure the osTicket environment by creating departments, roles, teams, suppor
 
 ## Business Scenario 
 
-Contoso Manufacturing has recently deployed **osTicket** to centralise IT support requests. Before employees can begin submitting tickets, the IT Administrator must configure the help desk structure, assign permissions, and create support staff accounts.
+X company has recently deployed **osTicket** to centralise IT support requests. Before employees can begin submitting tickets, the IT Administrator must configure the help desk structure, assign permissions, and create support staff accounts.
 
 ---
 
@@ -23,11 +23,7 @@ Departments organise tickets based on the type of support required and ensure re
 1. Log in to the **Admin Panel**.
 2. Navigate to **Agents → Departments**.
 3. Select **Add New Department**.
-4. Create the following departments:
-   - Help Desk
-   - Systems Administration
-   - Network Support
-5. Save the configuration.
+4. Save the configuration.
 
 ### Verification
 
