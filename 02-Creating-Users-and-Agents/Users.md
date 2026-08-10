@@ -91,6 +91,17 @@ Teams allow multiple agents to work together and simplify ticket assignment.
 4. Assign agents to their respective teams.
 5. Save the configuration.
 
+## Team Configuration
+
+Teams were created to organise support technicians by their area of expertise and improve ticket assignment.
+
+| Team | Responsibility |
+|------|----------------|
+| Desktop Support | Provides support for desktops, laptops, printers and peripheral devices. |
+| Microsoft 365 | Manages Exchange Online, Microsoft Teams, SharePoint, OneDrive and user licensing. |
+| Network Support | Troubleshoots network connectivity, VPN, switches, routers and wireless infrastructure. |
+| VIP Support | Provides priority technical assistance for executives and high-priority users. |
+
 ### Verification
 
 Confirm both teams are listed and contain the correct members.
