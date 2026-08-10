@@ -29,7 +29,7 @@ Departments organise tickets based on the type of support required and ensure re
 
 Confirm all departments appear in the department list.
 
-![Departments](screenshots/01-Departments.png)
+
 
 ---
 
