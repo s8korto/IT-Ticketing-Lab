@@ -71,3 +71,4 @@ Teams allow multiple agents to work together and simplify ticket assignment.
 
 Confirm both teams are listed and contain the correct members.
 
+![Teams](screenshots/03-Teams.png)
