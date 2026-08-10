@@ -43,13 +43,7 @@ Roles define the permissions available to support staff based on their responsib
 
 1. Navigate to **Agents → Roles**.
 2. Select **Add New Role**.
-3. Create the following roles:
-   - Auditor
-   - Help Desk
-   - IT Manager
-   - System Administrator
-4. Configure the appropriate permissions for each role.
-5. Save the changes.
+3. Configure the appropriate permissions for each role.
 
 ### Verification
 
