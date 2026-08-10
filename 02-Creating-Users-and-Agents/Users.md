@@ -64,8 +64,6 @@ Teams allow multiple agents to work together and simplify ticket assignment.
 1. Navigate to **Agents → Teams**.
 2. Select **Add New Team**.
 3. Create the following teams:
-   - Desktop Support
-   - Infrastructure
 4. Assign agents to their respective teams.
 5. Save the configuration.
 
@@ -73,4 +71,3 @@ Teams allow multiple agents to work together and simplify ticket assignment.
 
 Confirm both teams are listed and contain the correct members.
 
-![Teams](screenshots/03-Teams.png)
