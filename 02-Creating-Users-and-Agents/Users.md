@@ -145,6 +145,15 @@ Confirm each support agent appears in the Agent Directory.
 
 Create employee accounts that can submit support requests through the customer portal.
 
+### Procedure
+
+1. Navigate to **Users → User Directory**.
+2. Select **Add User**.
+3. Enter the employee details.
+4. Save the account.
+
+
+
 
 
 
