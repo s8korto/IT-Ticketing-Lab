@@ -152,6 +152,20 @@ Create employee accounts that can submit support requests through the customer p
 3. Enter the employee details.
 4. Save the account.
 
+### User Configuration
+
+| User | Department |
+|------|------------|
+| Sarah Brown | Finance |
+| James Wilson | Sales |
+| Daniel White | Facilities |
+
+### Verification
+
+Confirm all users appear in the User Directory.
+
+![Users](screenshots/05-Users.png)
+
 
 
 
