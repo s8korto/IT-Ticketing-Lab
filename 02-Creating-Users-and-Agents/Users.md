@@ -166,6 +166,11 @@ Confirm all users appear in the User Directory.
 
 ![Users](screenshots/05-Users.png)
 
+---
+
+## Summary
+
+Configured osTicket with departments, roles, teams, agents, and end users to establish a structured IT service desk with appropriate access control and support responsibilities.
 
 
 
