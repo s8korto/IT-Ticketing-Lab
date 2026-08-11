@@ -137,6 +137,16 @@ Confirm each support agent appears in the Agent Directory.
 
 ![Agents](screenshots/04-Agents.png)
 
+---
+
+# Step 5 - Create End Users
+
+### Purpose
+
+Create employee accounts that can submit support requests through the customer portal.
+
+
+
 
 
 
