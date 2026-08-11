@@ -107,3 +107,12 @@ Teams were created to organise support technicians by their area of expertise an
 Confirm both teams are listed and contain the correct members.
 
 ![Teams](screenshots/03-Teams.png)
+
+---
+
+# Step 4 - Create Support Agents
+
+### Purpose
+
+Create technician accounts responsible for resolving support requests.
+
