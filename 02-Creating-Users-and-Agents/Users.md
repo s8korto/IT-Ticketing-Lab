@@ -116,3 +116,11 @@ Confirm both teams are listed and contain the correct members.
 
 Create technician accounts responsible for resolving support requests.
 
+### Procedure
+
+1. Navigate to **Agents → Add New Agent**.
+2. Enter the agent information.
+3. Save the account.
+
+
+
