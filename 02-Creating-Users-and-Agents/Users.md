@@ -131,6 +131,13 @@ Create technician accounts responsible for resolving support requests.
 | Michael Davis | Support | Network Support | Level 2 Agent |
 | David Wilson | Help Desk | VIP Support | IT Manager |
 
+### Verification
+
+Confirm each support agent appears in the Agent Directory.
+
+![Agents](screenshots/04-Agents.png)
+
+
 
 
 
