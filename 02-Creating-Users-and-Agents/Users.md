@@ -172,6 +172,13 @@ Confirm all users appear in the User Directory.
 
 Configured osTicket with departments, roles, teams, agents, and end users to establish a structured IT service desk with appropriate access control and support responsibilities.
 
+## Key Takeaways
+
+- Configured departments and teams to organise IT support.
+- Implemented role-based permissions for support agents.
+- Created agents and end users for the service desk.
+- Established a structured foundation for ticket management.
+
 
 
 
