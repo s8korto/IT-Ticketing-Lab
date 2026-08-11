@@ -122,5 +122,15 @@ Create technician accounts responsible for resolving support requests.
 2. Enter the agent information.
 3. Save the account.
 
+### Agent Configuration
+
+| Agent | Department | Team | Role |
+|--------|------------|------|------|
+| Alex Turner | Help Desk | Desktop Support | Level 1 Agent |
+| Emily Chen | Support | Microsoft 365 | Level 2 Agent |
+| Michael Davis | Support | Network Support | Level 2 Agent |
+| David Wilson | Help Desk | VIP Support | IT Manager |
+
+
 
 
